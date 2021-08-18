@@ -1,4 +1,5 @@
 # Temporizador ⏲️
+![imagem projeto](https://github.com/Rhuan-Gonzaga/Contador/blob/main/img/projetoFt.png)
 Link da página do projeto:
 ## :brain: Sobre o projeto: 
 Temporizador de contagem regressiva. Feito para praticar meu jquery e bootstrap
