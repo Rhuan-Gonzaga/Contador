@@ -1,6 +1,6 @@
 # Temporizador ⏲️
 ![imagem projeto](https://github.com/Rhuan-Gonzaga/Contador/blob/main/img/projetoFt.png)
-Link da página do projeto:
+Link da página do projeto:https://temporizador-jq.netlify.app/
 ## :brain: Sobre o projeto: 
 Temporizador de contagem regressiva. Feito para praticar meu jquery e bootstrap
 ### 🚀 Tecnologia
